@@ -1,4 +1,5 @@
 package lab11;
+//STWORZYC KOPIEC DWUMIANOWY MAKSYMALNY (W GORZE WARTOSCI WIEKSZE)
 
 public class Main{
 
